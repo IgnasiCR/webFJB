@@ -1,0 +1,701 @@
+.contact-us
+{
+	background-color:#fff;
+	display:table;
+	box-sizing:border-box;
+	width:100%
+}
+
+.contact-us .helpLeftColumn a
+{
+	margin-bottom:0
+}
+
+.contact-us .helpLeftColumn
+{
+	width:34%;
+	float:left;
+	padding:15px 25px 10px 20px;
+	min-height:200px;
+	background-color:#fff;
+	box-sizing:border-box;
+	display:block
+}
+
+.contact-us .helpLeftColumn .pod-image
+{
+	background-size:inherit
+}
+
+.contact-us .telNumberBlock
+{
+	width:100%;
+	float:left
+}
+
+.telephoneNumber
+{
+	font-size:85%;
+	color:#7d7d7d;
+	padding-bottom:6px
+}
+
+.telNumberBlockWrapper .telephoneNumber
+{
+	font-size:100%;
+	color:#545454
+}
+
+.contactUsContainer
+{
+	float:left;
+	width:100%;
+	padding:0 10px;
+	box-sizing:border-box
+}
+
+.contact-us .helpRightColumn
+{
+	min-height:200px;
+	background-color:#fff;
+	display:table;
+	width:66%;
+	padding:15px 0 10px 53px
+}
+
+.contact-us .pod-item a
+{
+	color:black;
+	font-size:12px;
+	font-weight:400
+}
+
+.contact-us .pod-item .pod-image
+{
+	-webkit-background-size:242px 1000px;
+	background-repeat:no-repeat;
+	background-position:-1px -211px;
+	margin-left:-3.5em;
+	margin-right:0;
+	float:left;
+	width:53px;
+	height:43px
+}
+
+.contact-us .pod-item.email .pod-image
+{
+	width:46px
+}
+
+.contact-us .telephone-contact-section .pod-item .pod-image
+{
+	margin-left:-4em
+}
+
+.contact-us .pod-item.telebet .pod-image,.contact-us .pod-item.fax-text .pod-image
+{
+	background-image:none!important
+}
+
+.contact-us .helpLeftColumn .pod-item .pod-image
+{
+	background-position:1px -212px
+}
+
+.contact-us .pod-item.post .pod-image
+{
+	background-position:-46px -212px
+}
+
+.contact-us .pod-item.email .pod-image
+{
+	background-position:-96px -212px
+}
+
+.contact-us .pod-item.webMessage .pod-image
+{
+	background-position:-194px -212px
+}
+
+.contact-us .pod-item.chat .pod-image
+{
+	background-position:-145px -212px
+}
+
+.contact-us .text-container .helpTitle
+{
+	display:block;
+	width:100%;
+	font-weight:700;
+	color:#919191;
+	line-height:14px;
+	padding-bottom:6px;
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	font-size:85%;
+	padding-top:0
+}
+
+.contact-us .helpRightColumn .helpTitle
+{
+	margin-left:.6em
+}
+
+.contact-us .helpLeftColumn .helpBlurb
+{
+	margin-left:0
+}
+
+.contact-us .helpLeftColumn .pod-item .pod-image
+{
+	margin-left:-4em
+}
+
+.contact-us .helpLeftColumn .pod-item
+{
+	padding-left:4em;
+	padding-top:.75em;
+	box-sizing:border-box;
+	display:block
+}
+
+.contact-us .helpRightColumn .telNumberBlock
+{
+	padding-top:.75em;
+	box-sizing:border-box;
+	display:block
+}
+
+.contact-us .helpRightColumn .noText.pod-item
+{
+	margin-bottom:-30px
+}
+
+.contact-us .helpRightColumn h3.infoTextContainer.heading
+{
+	display:inline-block!important;
+	color:#919191!important;
+	padding-bottom:0;
+	padding-top:1em
+}
+
+.contact-us .helpRightColumn h3.infoTextContainer.heading.telephone-betting
+{
+	padding-top:1.5em
+}
+
+.ContactUsPage .helpBlurb
+{
+	color:#7d7d7d
+}
+
+.dialNumber a
+{
+	cursor:text;
+	color:#7d7d7d;
+	text-decoration:none;
+	font-size:13px
+}
+
+.contact-us .text-container .helpTitle:hover
+{
+	text-decoration:none
+}
+
+.contact-us .helpRightColumn .pod-item
+{
+	display:block;
+	width:46%;
+	float:left;
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	padding-top:20px;
+	padding:1px 45px 20px 10px
+}
+
+.helpRightColumn .telephone-contact-section
+{
+	width:54%;
+	height:100%;
+	float:left;
+	padding-right:45px;
+	padding-left:18px;
+	box-sizing:border-box;
+	position:relative;
+	min-height:200px
+}
+
+.contact-us .helpRightColumn .telephone-contact-section .pod-item
+{
+	padding-left:0;
+	padding-bottom:0;
+	width:100%
+}
+
+.contact-us .helpRightColumn .telephone-contact-section .helpTitle
+{
+	margin-left:0
+}
+
+.contact-us .helpRightColumn .pod-item.chat
+{
+	padding-top:17px
+}
+
+.contact-us .helpRightColumn .pod-item.post div.helpBlurb,.contact-us .helpRightColumn .pod-item.email div.helpBlurb
+{
+	margin-top:6px
+}
+
+.telephoneNumber a
+{
+	pointer-events:none;
+	cursor:default;
+	text-decoration:none;
+	color:#7d7d7d
+}
+
+.contactItem
+{
+	display:block;
+	width:50%;
+	float:left;
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	padding-top:20px;
+	padding:1px 10px 20px
+}
+
+.contactUsBlurb
+{
+	display:block;
+	width:100%;
+	font-weight:400;
+	font-size:85%;
+	line-height:150%;
+	color:#7d7d7d;
+	box-sizing:border-box;
+	-webkit-margin-before:0;
+	-webkit-margin-after:0;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box
+}
+
+.contactUsBlurb p
+{
+	-webkit-margin-before:0;
+	-webkit-margin-after:0
+}
+
+.whiteButton span
+{
+	color:black;
+	font-size:80%;
+	font-weight:400
+}
+
+.ContactUsPage.native-app-mobile .standardHeader
+{
+	padding-left:10px
+}
+
+a.whiteButton
+{
+	text-decoration:none
+}
+
+.telButtonContainer
+{
+	margin:10px auto 0
+}
+
+.contactUsLink,.contactUsTelTitle
+{
+	display:block;
+	width:100%;
+	font-weight:700;
+	color:#919191;
+	line-height:100%;
+	padding-bottom:8px;
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	font-size:90%
+}
+
+.telephoneSubSection
+{
+	color:#7d7d7d;
+	font-size:13px
+}
+
+.contact-us .headerWrapper
+{
+	float:left;
+	border-bottom:1px solid #ececec;
+	border-left:none;
+	border-right:none;
+	width:100%
+}
+
+.chooser
+{
+	position:static;
+	float:right;
+	width:auto;
+	display:inline-block;
+	margin-left:1em
+}
+
+.labelWrapper
+{
+	float:left;
+	font-size:14px;
+	color:#999;
+	font-weight:700;
+	line-height:22px;
+	padding-right:10px
+}
+
+.contactUsPage
+{
+	padding:21px 10px 0;
+	background-color:#fff
+}
+
+.contactUsPage .selectDropDown
+{
+	margin-top:.1em
+}
+
+.contact-us .telebet .text-container .helpTitle
+{
+	display:none
+}
+
+.contact-us .helpLeftColumn .pod-item
+{
+	float:left;
+	padding-top:.6em
+}
+
+@media only screen and (max-width:36em) {
+	.chooser
+	{
+		float:none;
+		margin-left:0;
+		padding:0 .625em;
+		width:100%;
+		box-sizing:border-box
+	}
+	
+	.contact-us .helpRightColumn .noText.pod-item
+	{
+		margin-bottom:-20px
+	}
+	
+	.touch .dialNumber
+	{
+		cursor:pointer
+	}
+	
+	.helpRightColumn .telephone-contact-section
+	{
+		min-height:0;
+		height:auto
+	}
+	
+	.contact-us .helpRightColumn h3.infoTextContainer.heading.telephone-betting
+	{
+		padding-top:0;
+		padding-bottom:10px
+	}
+	
+	.touch .dialNumber a
+	{
+		cursor:pointer
+	}
+	
+	.contact-us
+	{
+		border-left:0;
+		border-right:0
+	}
+	
+	.contact-us .headerWrapper
+	{
+		border-bottom:0
+	}
+	
+	.labelWrapper
+	{
+		float:none;
+		margin-bottom:.6em;
+		font-size:14px;
+		color:#545454;
+		font-weight:700
+	}
+	
+	.contact-us .headerWrapper
+	{
+		padding:.625em 0 0;
+		float:none;
+		margin-bottom:20px
+	}
+	
+	.contact-us .standardHeader
+	{
+		display:none
+	}
+	
+	.contact-us .pod-item
+	{
+		padding:10px 0
+	}
+	
+	.contact-us .selectDropDown
+	{
+		width:100%
+	}
+	
+	.contact-us .text-container .helpTitle
+	{
+		width:auto;
+		padding:17px 10px 14px;
+		border-top:1px solid #d8d8d8;
+		border-bottom:1px solid #b6b6b6;
+		font-size:.968em;
+		color:#666;
+		box-sizing:content-box;
+		-webkit-box-sizing:content-box;
+		-moz-box-sizing:content-box;
+		margin:0 0 20px;
+		text-shadow:0 1px 1px rgba(255,255,255,1);
+		background:#efefef;
+		background:-moz-linear-gradient(top,#efefef 0%,#e3e3e3 100%);
+		background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#efefef),color-stop(100%,#e3e3e3));
+		background:-webkit-linear-gradient(top,#efefef 0%,#e3e3e3 100%);
+		background:-o-linear-gradient(top,#efefef 0%,#e3e3e3 100%);
+		background:-ms-linear-gradient(top,#efefef 0%,#e3e3e3 100%);
+		background:linear-gradient(to bottom,#efefef 0%,#e3e3e3 100%);
+		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#efefef',endColorstr='#e3e3e3',GradientType=0)
+	}
+	
+	.contact-us .helpLeftColumn
+	{
+		width:100%;
+		padding:0;
+		min-height:0;
+		display:table
+	}
+	
+	.contact-us .helpRightColumn .telephone-contact-section
+	{
+		width:100%;
+		padding:0
+	}
+	
+	.contact-us
+	{
+		display:block
+	}
+	
+	.contact-us .text-container
+	{
+		display:block
+	}
+	
+	.contact-us .helpLeftColumn .pod-item,.contact-us .helpRightColumn .pod-item
+	{
+		border-bottom:none;
+		display:inherit;
+		width:100%
+	}
+	
+	.contact-us .helpRightColumn .telNumberBlock
+	{
+		background-color:#fff;
+		padding-top:0
+	}
+	
+	.contact-us .helpRightColumn .pod-item
+	{
+		float:none
+	}
+	
+	.contact-us .helpRightColumn
+	{
+		min-height:inherit;
+		width:100%;
+		padding:0
+	}
+	
+	.contact-us .helpRightColumn .pod-item
+	{
+		padding:20px 0;
+		width:100%
+	}
+	
+	.contact-us .helpBlurb
+	{
+		display:block;
+		padding:0 10px;
+		box-sizing:border-box;
+		font-size:15px;
+		line-height:22.5px
+	}
+	
+	.telephoneSubSection,.contact-us .helpRightColumn h3.infoTextContainer.heading
+	{
+		font-size:15px;
+		color:#545454;
+		font-weight:700;
+		margin-bottom:10px
+	}
+	
+	.contact-us .helpRightColumn h3.infoTextContainer.heading
+	{
+		width:100%;
+		padding-left:.625em;
+		color:#545454!important
+	}
+	
+	.contact-us .dialNumber a
+	{
+		font-size:16px
+	}
+	
+	.contact-us .helpLeftColumn .pod-item,.contact-us .helpRightColumn .pod-item,.contact-us .helpLeftColumn .telNumberBlock
+	{
+		padding-top:0;
+		float:left
+	}
+	
+	.contact-us .dialNumber div
+	{
+		width:auto;
+		text-align:center;
+		padding:10px 0 11px;
+		overflow:hidden;
+		height:auto
+	}
+	
+	.contact-us .dialNumber div a
+	{
+		color:#e8e8e8;
+		text-decoration:none;
+		font-size:15px;
+		font-weight:400;
+		margin-bottom:0;
+		padding:0 22px;
+		box-sizing:border-box
+	}
+	
+	.contact-us .pod-item .children
+	{
+		width:100%;
+		padding:0 10px;
+		box-sizing:border-box;
+		display:inline-block;
+		margin-left:0
+	}
+	
+	.contact-us .dialNumber
+	{
+		display:table;
+		position:relative;
+		width:100%;
+		background-color:black;
+		margin-bottom:1.25em;
+		box-sizing:border-box;
+		border-top-left-radius:2px;
+		border-top-right-radius:2px;
+		border-bottom-left-radius:2px;
+		border-bottom-right-radius:2px
+	}
+	
+	.contact-us .pod-item a
+	{
+		display:block;
+		float:left;
+		font-size:15px;
+		text-align:center;
+		font-weight:400;
+		color:#e8e8e8;
+		width:100%;
+		height:40px;
+		line-height:40px;
+		background-color:black;
+		margin-top:1.25em;
+		margin-bottom:1.25em;
+		-ms-border-top-left-radius:2px;
+		border-top-left-radius:2px;
+		-ms-border-top-right-radius:2px;
+		border-top-right-radius:2px;
+		-ms-border-bottom-left-radius:2px;
+		border-bottom-left-radius:2px;
+		-ms-border-bottom-right-radius:2px;
+		border-bottom-right-radius:2px
+	}
+	
+	.telNumberBlock
+	{
+		padding:0 .625em;
+		box-sizing:border-box
+	}
+	
+	.contact-us .telNumberBlock
+	{
+		padding:7px 10px
+	}
+	
+	.contact-us .helpLeftColumn .pod-item
+	{
+		padding-left:0
+	}
+	
+	div.contact-us
+	{
+		position:relative;
+		z-index:5;
+		min-height:400px;
+		border-bottom:1px solid #ddd;
+		display:table
+	}
+	
+	.contact-us .pod-image
+	{
+		display:none
+	}
+}
+
+@media only screen and (min-width:36.04em) {
+	body .contact-us .helpLeftColumn .pod-item
+	{
+		padding:20px 0 20px 4.53em
+	}
+	
+	.contact-us .helpBlurb,.contact-us .helpRightColumn .children
+	{
+		font-size:13px;
+		margin-left:.62em
+	}
+	
+	.contact-us .telephone-contact-section .helpBlurb
+	{
+		margin-left:0
+	}
+}
+
+#map{
+    display: none;
+}
+
+@media only screen and (min-width:750px){
+    #map{
+        display: block;
+    }
+}

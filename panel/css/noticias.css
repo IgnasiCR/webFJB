@@ -1,0 +1,90 @@
+.jtabla{
+    background-color:#e9e9e9;
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e9e9e9), color-stop(1, #f9f9f9) );
+    background:-moz-linear-gradient( center top, #e9e9e9 5%, #f9f9f9 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e9e9e9', endColorstr='#f9f9f9');
+    border:1px solid #dcdcdc;
+    width: 100%;
+    overflow: hidden;
+}
+
+.jtabla th {
+    color: black;
+}
+
+.jtabla tr {
+    border: 1px solid #333;
+}
+
+.jtabla tr td {
+    text-align: center;
+    color: black;
+}
+
+    .jtabla, .jtabla tr, .jtabla td, tbody {
+        display: block;
+    }
+    
+    .jtabla th {
+        display: none;
+    }
+    
+    .jtabla tr td {
+        position: relative;
+        padding-left: 40%;
+        text-align: left;
+    }
+    
+    .jtabla tr td::before {
+        content: attr(title) " : ";
+        color: black;
+        left: 15px;
+        position: absolute;
+    }
+    
+    /*LAS SIGUIENTES LINEAS SON OPCIONALES*/
+    .jtabla tr {
+        border: none;
+    }
+    
+    .jtabla tr:nth-child(1n+2){
+        padding: 15px 0; 
+    }
+
+#botonEnlace{
+     border-radius: 0px;
+     background-color: transparent;
+     border: none;
+     cursor: pointer;
+     font-size: 16px;
+     color:black;
+    }
+                        
+#añadirNoticias{
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+                        
+a{
+    text-decoration: underline;
+    color: black;
+}
+
+#insertarNoticia{
+    display:none;
+}
+
+#errorNoticia{
+    display:block;
+}
+
+@media only screen and (min-width:950px){
+    #insertarNoticia{
+        display: block;
+    }
+    
+    #errorNoticia{
+    display:none;
+}
+}

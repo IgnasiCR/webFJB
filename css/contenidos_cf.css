@@ -1,0 +1,49 @@
+#cf h3, h4{
+    text-align: center;
+}
+
+#cf .contenedor{
+    display: flex;
+    justify-content:  center;
+    flex-wrap: wrap;
+}
+
+#cf article{
+    margin: 15px;
+}
+
+#cf img{
+    width: 100%;
+    max-width: 280px;
+}
+
+#cf{
+    text-align:center;
+}
+
+p {
+    margin-bottom: 12px;margin-left: 18px;color: #555555;
+}
+
+h3 {
+    margin: 16px 0;margin-left: 18px;font-size: 1.61em;font-weight: normal;color: #37545b;
+}
+
+ul {
+    margin-left: 25px;padding-left: 18px;
+}
+ul li {
+    padding: 0 0 3px 11px;color: #555;
+}
+
+ul li a {
+    font-size: 1em; color: #0D7988; 
+}
+
+ul li p{
+    text-align: left;
+}
+
+ul ul li p{
+    text-align: left;
+}

@@ -1,0 +1,59 @@
+#tituloSuperior{
+    margin-top: 60px;
+    position: relative;
+}
+
+#tablaLogueo{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#logueo{
+    margin-top: 5px;
+    width: 22%;
+    height: 30px;
+    background-color: #333;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+}
+
+
+       
+#login{
+    position: absolute;
+    top:50;
+    left:0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(255,255,255,0.9);
+    transition: all 0.5s;
+    color: black;
+    overflow: auto;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    display: none;
+}
+       
+#X{
+    text-decoration: none;
+    position: relative;
+    top: 25px;
+    right: 25px;
+    border:0;
+    outline:0 none;
+    background-color: transparent;
+    float: right;
+}
+        
+#X:hover{
+    font-size: 17px;
+}
+        
+
+
+@media (min-width:700px){
+    #logueo{
+        width: 10%;
+    }
+}

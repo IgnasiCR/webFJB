@@ -1,0 +1,72 @@
+#blog h3, h4{
+    text-align: center;
+}
+
+#blog .contenedor{
+    display: flex;
+    justify-content:  center;
+    flex-wrap: wrap;
+}
+
+#blog article{
+    margin: 15px;
+}
+
+#blog img{
+    width: 100%;
+    max-width: 280px;
+}
+
+#blog{
+    text-align:center;
+}
+
+#blog a{
+    text-decoration:none;
+    color: black;
+}
+
+#empresas h3, h4{
+    text-align: center;
+}
+
+#empresas .contenedor{
+    display: flex;
+    justify-content:  center;
+    flex-wrap: wrap;
+}
+
+#empresas img{
+    width: 100%;
+}
+
+#empresas{
+    text-align:center;
+}
+
+#empresas a{
+    text-decoration:none;
+    color: black;
+}
+
+#cisco p{
+    margin: 5px;
+}
+
+#cisco a{
+    text-decoration: underline;
+}
+
+#contacto .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#contacto .contenedor a{
+    text-decoration:underline;
+    color: black;
+}
+
+#contacto .contenedor p{
+    margin: 5px;
+}
