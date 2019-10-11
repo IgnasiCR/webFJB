@@ -27,3 +27,5 @@ La web tiene: portada con noticias, ciclos formativos, galería, contacto y acce
 Dentro del panel tiene: gestión de noticias, gestión de imágenes en galería y ciclos formativos, y gestión de usuarios.
 
 La web es Responsive, es decir, funciona tanto en dispositivos móviles como en ordenadores.
+
+Crada por IgnasiCR
