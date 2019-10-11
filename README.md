@@ -28,4 +28,4 @@ Dentro del panel tiene: gestión de noticias, gestión de imágenes en galería 
 
 La web es Responsive, es decir, funciona tanto en dispositivos móviles como en ordenadores.
 
-Crada por IgnasiCR
+Creada por IgnasiCR
